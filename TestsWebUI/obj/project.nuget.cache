@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWgopXgYkBE=",
+  "success": false,
+  "projectFilePath": "D:\\formation_udemy_.netcore\\TestsWebUI\\TestsWebUI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Échec du téléchargement du package 'Newtonsoft.Json.10.0.3' à partir de 'https://api.nuget.org/v3-flatcontainer/newtonsoft.json/10.0.3/newtonsoft.json.10.0.3.nupkg'.\r\nEspace insuffisant sur le disque."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.TestPlatform.TestHost' à partir de la source distante 'https://api.nuget.org/v3-flatcontainer/microsoft.testplatform.testhost/index.json'.\r\n  Espace insuffisant sur le disque.",
+      "libraryId": "Microsoft.TestPlatform.TestHost"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.CodeCoverage' à partir de la source distante 'https://api.nuget.org/v3-flatcontainer/microsoft.codecoverage/index.json'.\r\n  Espace insuffisant sur le disque.",
+      "libraryId": "Microsoft.CodeCoverage"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Le flux 'nuget.org [https://api.nuget.org/v3/index.json]' répertorie le package 'Newtonsoft.Json.10.0.3', mais plusieurs tentatives de téléchargement du fichier nupkg ont échoué. Soit le flux n'est pas valide, soit les packages exigés ont été supprimés pendant l'opération actuelle. Vérifiez que le package existe dans le flux et réessayez."
+    }
+  ]
+}

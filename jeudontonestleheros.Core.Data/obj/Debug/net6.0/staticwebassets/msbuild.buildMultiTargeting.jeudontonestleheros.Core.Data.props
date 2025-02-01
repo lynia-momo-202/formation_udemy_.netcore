@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\jeudontonestleheros.Core.Data.props" />
+</Project>

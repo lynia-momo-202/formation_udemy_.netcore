@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\jeudontonestleheros.Core.Data.props" />
+</Project>

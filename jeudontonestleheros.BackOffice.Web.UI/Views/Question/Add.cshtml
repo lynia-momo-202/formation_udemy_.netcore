@@ -1,0 +1,42 @@
+﻿ @model jeudontonestleheros.Core.Data.Models.Question
+
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    List<jeudontonestleheros.Core.Data.Models.Paragraphe> list;
+    list = ViewBag.ParagrapheList;
+    var listItems = list.Select(item => new SelectListItem() { Text = item.Titre, Value = item.Id.ToString() }).ToList();
+}
+
+<h1>Add</h1>
+
+<h4>Question</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add" class="form-control">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titre" class="control-label"></label>
+                <input asp-for="Titre" class="form-control" />
+                <span asp-validation-for="Titre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <select asp-for="ParagrapheId" asp-items="listItems"> </select>
+                @*en utilisant un tag helpers(html.DropDownList)
+                @Html.DropDownList("ParagrapheId",listItems)*@
+             </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

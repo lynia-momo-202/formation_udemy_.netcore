@@ -1,0 +1,34 @@
+// effectuer une migration 
+
+-installer dotnet : dotnet tool install dotnetsay -g[--version x.y.z]
+-installer dotnet ef : dotnet tool install --global dotnet-ef [--version x.y.z]
+-cmd: dotnet ef migrations add Nom_migration --context nom_context
+
+//update apres migration
+
+-ouvrir la console de gestionnaire de package
+-console: update-database //pour les projets avec un seul context 
+-console: update-database -context nom_context //pour projet avec ++ context 
+   ou
+-cmd: dotnet ef database update       
+
+//comment faire la migration dans une librairie de classe(class library)
+
+-creer un fichier json pour la chaine de connection
+-se placer dans le dossier a laide du cmd
+-on tape la commande pour les migration    :) vous voyez une erreur
+     le generateur de migration est concu pour les projets dotnetframework
+    alors comment faire??
+ -bah il faut ajouter dautres librairy
+	_MicrosoftEntityFrameworkCore.Design
+	_MicrosoftEntityFrameworkCore.Sqlserver
+	_Microsoft.Extensions.Configuration
+	_Microsoft.Extensions.Configuration.FileExtension
+	_Microsoft.Extensions.Configuration.json
+ -apres avoir installer MicrosoftEntityFrameworkCore.Design , regenerer le projet et effectuer de nouveau la commande
+ -une nouvelle erreur :) (il narrive pas pas a creer le context) on est proche
+ -copier son fichier en ressource dans le github et installer tous les autres packages
+ -rebuild et relance ta commande .....
+
+//git puch premier lien pour apprendre git bach et github ;)
+FONCE MA COCO !!!!

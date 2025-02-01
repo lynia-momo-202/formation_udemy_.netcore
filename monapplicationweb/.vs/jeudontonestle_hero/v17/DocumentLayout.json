@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\formation_udemy_.netcore\\monapplicationweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94146977-D0B7-47C4-AFF8-9FBF2FB527AB}|..\\testauthentificationfacebook\\testauthentificationfacebook.csproj|d:\\formation_udemy_.netcore\\testauthentificationfacebook\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94146977-D0B7-47C4-AFF8-9FBF2FB527AB}|..\\testauthentificationfacebook\\testauthentificationfacebook.csproj|d:\\formation_udemy_.netcore\\testauthentificationfacebook\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD940D-4BEB-4FF0-879E-3B598D2EC0EE}|..\\MyFirstCallOfEntites\\MyFirstCallOfEntites.csproj|d:\\formation_udemy_.netcore\\myfirstcallofentites\\defaultentitescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD940D-4BEB-4FF0-879E-3B598D2EC0EE}|..\\MyFirstCallOfEntites\\MyFirstCallOfEntites.csproj|d:\\formation_udemy_.netcore\\myfirstcallofentites\\paragraphe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CD940D-4BEB-4FF0-879E-3B598D2EC0EE}|..\\MyFirstCallOfEntites\\MyFirstCallOfEntites.csproj|d:\\formation_udemy_.netcore\\myfirstcallofentites\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A79A33-FA92-4032-852F-5568DA47E82E}|..\\DecouverteValidation\\DecouverteValidation.csproj|d:\\formation_udemy_.netcore\\decouvertevalidation\\views\\jedi\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A79A33-FA92-4032-852F-5568DA47E82E}|..\\DecouverteValidation\\DecouverteValidation.csproj|d:\\formation_udemy_.netcore\\decouvertevalidation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A79A33-FA92-4032-852F-5568DA47E82E}|..\\DecouverteValidation\\DecouverteValidation.csproj|d:\\formation_udemy_.netcore\\decouvertevalidation\\controllers\\jedicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43BBD92-65BD-4521-983D-F84BF57EAAB5}|..\\CallingAdoNet\\CallingAdoNet.csproj|d:\\formation_udemy_.netcore\\callingadonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466A8284-CC00-4231-A1AA-4FAF19DE78C2}|..\\DecouverteForEach\\DecouverteForEach.csproj|d:\\formation_udemy_.netcore\\decouverteforeach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466A8284-CC00-4231-A1AA-4FAF19DE78C2}|..\\DecouverteForEach\\DecouverteForEach.csproj|d:\\formation_udemy_.netcore\\decouverteforeach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D05B219-2D28-4B8E-9DB5-CBD23067A66F}|..\\DecouverteSession\\DecouverteSession.csproj|d:\\formation_udemy_.netcore\\decouvertesession\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|d:\\formation_udemy_.netcore\\monapplicationweb\\views\\adventure\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|solutionrelative:views\\adventure\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|d:\\formation_udemy_.netcore\\monapplicationweb\\views\\adventure\\beginnewone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|solutionrelative:views\\adventure\\beginnewone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA38595-0EF5-43C3-8A8E-EDEB9AAA7E0C}|..\\TestsWebUI\\TestsWebUI.csproj|d:\\formation_udemy_.netcore\\testswebui\\homecontrollerunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DA38595-0EF5-43C3-8A8E-EDEB9AAA7E0C}|..\\TestsWebUI\\TestsWebUI.csproj|d:\\formation_udemy_.netcore\\testswebui\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|d:\\formation_udemy_.netcore\\monapplicationweb\\constraints\\logconstaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|solutionrelative:constraints\\logconstaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|d:\\formation_udemy_.netcore\\monapplicationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3978137-5085-4452-A8AF-7A80C50D4F9B}|monapplicationweb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "..\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswNQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:30:23.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "..\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "..\\testauthentificationfacebook\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:29:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultEntitesContext.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\MyFirstCallOfEntites\\DefaultEntitesContext.cs",
+              "RelativeDocumentMoniker": "..\\MyFirstCallOfEntites\\DefaultEntitesContext.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\MyFirstCallOfEntites\\DefaultEntitesContext.cs",
+              "RelativeToolTip": "..\\MyFirstCallOfEntites\\DefaultEntitesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:29:08.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paragraphe.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\MyFirstCallOfEntites\\Paragraphe.cs",
+              "RelativeDocumentMoniker": "..\\MyFirstCallOfEntites\\Paragraphe.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\MyFirstCallOfEntites\\Paragraphe.cs",
+              "RelativeToolTip": "..\\MyFirstCallOfEntites\\Paragraphe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:29:05.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\MyFirstCallOfEntites\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MyFirstCallOfEntites\\Program.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\MyFirstCallOfEntites\\Program.cs",
+              "RelativeToolTip": "..\\MyFirstCallOfEntites\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:28:14.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\DecouverteValidation\\Views\\Jedi\\Add.cshtml",
+              "RelativeDocumentMoniker": "..\\DecouverteValidation\\Views\\Jedi\\Add.cshtml",
+              "ToolTip": "D:\\formation_udemy_.netcore\\DecouverteValidation\\Views\\Jedi\\Add.cshtml",
+              "RelativeToolTip": "..\\DecouverteValidation\\Views\\Jedi\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:26:54.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\DecouverteValidation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\DecouverteValidation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\DecouverteValidation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\DecouverteValidation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:26:46.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JediController.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\DecouverteValidation\\Controllers\\JediController.cs",
+              "RelativeDocumentMoniker": "..\\DecouverteValidation\\Controllers\\JediController.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\DecouverteValidation\\Controllers\\JediController.cs",
+              "RelativeToolTip": "..\\DecouverteValidation\\Controllers\\JediController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:26:44.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\CallingAdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CallingAdoNet\\Program.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\CallingAdoNet\\Program.cs",
+              "RelativeToolTip": "..\\CallingAdoNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:23:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\DecouverteForEach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\DecouverteForEach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\formation_udemy_.netcore\\DecouverteForEach\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\DecouverteForEach\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:23:17.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\DecouverteForEach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\DecouverteForEach\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\DecouverteForEach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\DecouverteForEach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:23:09.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\DecouverteSession\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\DecouverteSession\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\DecouverteSession\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\DecouverteSession\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:22:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\monapplicationweb\\Views\\Adventure\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adventure\\Create.cshtml",
+              "ToolTip": "D:\\formation_udemy_.netcore\\monapplicationweb\\Views\\Adventure\\Create.cshtml",
+              "RelativeToolTip": "Views\\Adventure\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:21:33.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BeginNewOne.cshtml",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\monapplicationweb\\Views\\Adventure\\BeginNewOne.cshtml",
+              "RelativeDocumentMoniker": "Views\\Adventure\\BeginNewOne.cshtml",
+              "ToolTip": "D:\\formation_udemy_.netcore\\monapplicationweb\\Views\\Adventure\\BeginNewOne.cshtml",
+              "RelativeToolTip": "Views\\Adventure\\BeginNewOne.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T14:21:09.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeControllerUnitTest.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\TestsWebUI\\HomeControllerUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\TestsWebUI\\HomeControllerUnitTest.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\TestsWebUI\\HomeControllerUnitTest.cs",
+              "RelativeToolTip": "..\\TestsWebUI\\HomeControllerUnitTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:19:11.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\TestsWebUI\\Usings.cs",
+              "RelativeDocumentMoniker": "..\\TestsWebUI\\Usings.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\TestsWebUI\\Usings.cs",
+              "RelativeToolTip": "..\\TestsWebUI\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:19:07.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LogConstaint.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\monapplicationweb\\constraints\\LogConstaint.cs",
+              "RelativeDocumentMoniker": "constraints\\LogConstaint.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\monapplicationweb\\constraints\\LogConstaint.cs",
+              "RelativeToolTip": "constraints\\LogConstaint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:15:39.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\formation_udemy_.netcore\\monapplicationweb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\formation_udemy_.netcore\\monapplicationweb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:11:34.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

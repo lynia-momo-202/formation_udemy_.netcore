@@ -1,0 +1,62 @@
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\appsettings.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.staticwebassets.runtime.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.exe
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.deps.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.runtimeconfig.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.pdb
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.csproj.AssemblyReference.cache
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.AssemblyInfoInputs.cache
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.AssemblyInfo.cs
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.csproj.CoreCompileInputs.cache
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.RazorAssemblyInfo.cache
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.RazorAssemblyInfo.cs
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.DecouverteForEach.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.build.DecouverteForEach.props
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DecouverteForEach.props
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DecouverteForEach.props
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\scopedcss\bundle\DecouverteForEach.styles.css
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\scopedcss\projectbundle\DecouverteForEach.bundle.scp.css
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\refint\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.pdb
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.genruntimeconfig.cache
+C:\Users\SECEL\Desktop\vs\DecouverteForEach\obj\Debug\net6.0\ref\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\appsettings.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.staticwebassets.runtime.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.exe
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.deps.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.runtimeconfig.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\bin\Debug\net6.0\DecouverteForEach.pdb
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.csproj.AssemblyReference.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.AssemblyInfoInputs.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.AssemblyInfo.cs
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.csproj.CoreCompileInputs.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.RazorAssemblyInfo.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.RazorAssemblyInfo.cs
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.DecouverteForEach.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.build.DecouverteForEach.props
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DecouverteForEach.props
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DecouverteForEach.props
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\scopedcss\bundle\DecouverteForEach.styles.css
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\scopedcss\projectbundle\DecouverteForEach.bundle.scp.css
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\refint\DecouverteForEach.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.pdb
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\DecouverteForEach.genruntimeconfig.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\DecouverteForEach\obj\Debug\net6.0\ref\DecouverteForEach.dll

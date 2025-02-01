@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "CwjJy4EqvcM=",
+  "success": false,
+  "projectFilePath": "D:\\formation_udemy_.netcore\\CallingAdoNet\\CallingAdoNet.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Échec du téléchargement du package 'System.Data.SqlClient.4.8.5' à partir de 'https://api.nuget.org/v3-flatcontainer/system.data.sqlclient/4.8.5/system.data.sqlclient.4.8.5.nupkg'.\r\nEspace insuffisant sur le disque."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Le flux 'nuget.org [https://api.nuget.org/v3/index.json]' répertorie le package 'System.Data.SqlClient.4.8.5', mais plusieurs tentatives de téléchargement du fichier nupkg ont échoué. Soit le flux n'est pas valide, soit les packages exigés ont été supprimés pendant l'opération actuelle. Vérifiez que le package existe dans le flux et réessayez."
+    }
+  ]
+}

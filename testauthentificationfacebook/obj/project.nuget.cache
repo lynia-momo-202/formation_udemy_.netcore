@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtcTgGBsWNE=",
+  "success": false,
+  "projectFilePath": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\testauthentificationfacebook.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Échec du téléchargement du package 'Microsoft.EntityFrameworkCore.Analyzers.6.0.14' à partir de 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.analyzers/6.0.14/microsoft.entityframeworkcore.analyzers.6.0.14.nupkg'.\r\nEspace insuffisant sur le disque."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Échec du téléchargement du package 'Microsoft.EntityFrameworkCore.Abstractions.6.0.14' à partir de 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.abstractions/6.0.14/microsoft.entityframeworkcore.abstractions.6.0.14.nupkg'.\r\nEspace insuffisant sur le disque."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.EntityFrameworkCore.Analyzers' à partir de la source distante 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.analyzers/index.json'.\r\n  Espace insuffisant sur le disque.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Le flux 'nuget.org [https://api.nuget.org/v3/index.json]' répertorie le package 'Microsoft.EntityFrameworkCore.Abstractions.6.0.14', mais plusieurs tentatives de téléchargement du fichier nupkg ont échoué. Soit le flux n'est pas valide, soit les packages exigés ont été supprimés pendant l'opération actuelle. Vérifiez que le package existe dans le flux et réessayez."
+    }
+  ]
+}

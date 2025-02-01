@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Microsoft.AspNetCore.Authentication.Facebook >= 6.0.14",
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.14",
+      "Microsoft.AspNetCore.Identity.UI >= 6.0.14",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.14",
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.14",
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.12"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Marcelle NONO\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\testauthentificationfacebook.csproj",
+      "projectName": "testauthentificationfacebook",
+      "projectPath": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\testauthentificationfacebook.csproj",
+      "packagesPath": "C:\\Users\\Marcelle NONO\\.nuget\\packages\\",
+      "outputPath": "D:\\formation_udemy_.netcore\\testauthentificationfacebook\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Marcelle NONO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Facebook": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.AspNetCore.Identity.UI": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.0.14, )"
+          },
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "target": "Package",
+            "version": "[6.0.12, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Échec du téléchargement du package 'Microsoft.EntityFrameworkCore.Analyzers.6.0.14' à partir de 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.analyzers/6.0.14/microsoft.entityframeworkcore.analyzers.6.0.14.nupkg'.\r\nEspace insuffisant sur le disque."
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Échec du téléchargement du package 'Microsoft.EntityFrameworkCore.Abstractions.6.0.14' à partir de 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.abstractions/6.0.14/microsoft.entityframeworkcore.abstractions.6.0.14.nupkg'.\r\nEspace insuffisant sur le disque."
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Échec de la récupération des informations sur 'Microsoft.EntityFrameworkCore.Analyzers' à partir de la source distante 'https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore.analyzers/index.json'.\r\n  Espace insuffisant sur le disque.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Le flux 'nuget.org [https://api.nuget.org/v3/index.json]' répertorie le package 'Microsoft.EntityFrameworkCore.Abstractions.6.0.14', mais plusieurs tentatives de téléchargement du fichier nupkg ont échoué. Soit le flux n'est pas valide, soit les packages exigés ont été supprimés pendant l'opération actuelle. Vérifiez que le package existe dans le flux et réessayez."
+    }
+  ]
+}

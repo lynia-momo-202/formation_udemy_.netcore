@@ -1,0 +1,34 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model jeudontonestleheros.Core.Data.Models.Paragraphe
+<h2>C'etst parti !</h2>
+<div class="row center ">
+    <h3>
+        @Model.Titre
+    </h3>
+    <p>
+        <h4>
+            @Model.Description
+        </h4>
+    </p>
+</div>
+@if (@Model.MaQuestion != null)
+{
+    <div class="row center ">
+        <h5>
+            @Model.MaQuestion?.Titre
+        </h5>
+        @if (Model.MaQuestion.Reponses != null && Model.MaQuestion.Reponses.Count() > 0)
+        {
+            <ul>
+                @foreach (var Reponse in Model.MaQuestion.Reponses)
+                {
+                    <li>
+                        <a asp-controller="Adventure" asp-action="BeginNewOne" asp-route-id="@Reponse.ParagrapheId">--@Reponse.Description</a>
+                    </li>
+                }
+            </ul>
+        }
+    </div>
+}

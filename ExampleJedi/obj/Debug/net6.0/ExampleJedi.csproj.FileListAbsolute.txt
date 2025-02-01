@@ -1,0 +1,12 @@
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\bin\Debug\net6.0\ExampleJedi.deps.json
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\bin\Debug\net6.0\ExampleJedi.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\bin\Debug\net6.0\ExampleJedi.pdb
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.csproj.AssemblyReference.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.AssemblyInfoInputs.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.AssemblyInfo.cs
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.csproj.CoreCompileInputs.cache
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\refint\ExampleJedi.dll
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ExampleJedi.pdb
+C:\Users\SECEL\Desktop\secel 2023\vs\ExampleJedi\obj\Debug\net6.0\ref\ExampleJedi.dll
